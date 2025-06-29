@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "kafka": {
+      "command": "/Users/l-phan/Documents/my-project/kafka-mcp/mcp-kafka",
+      "autoApprove": [],
+      "disabled": false,
+      "timeout": 60,
+      "transportType": "stdio"
+    }
+  }
+}
