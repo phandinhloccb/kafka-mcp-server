@@ -277,15 +277,3 @@ echo '{"jsonrpc":"2.0","id":1,"method":"tools/list","params":{}}' | ./mcp-kafka
 ## 📝 License
 
 MIT License
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create feature branch: `git checkout -b feature/amazing-feature`
-3. Commit changes: `git commit -m 'Add amazing feature'`
-4. Push to branch: `git push origin feature/amazing-feature`
-5. Create Pull Request
-
-## 📞 Support
-
-If you encounter any issues, please create an issue in this repository with detailed information about the error and your environment.
